@@ -1,0 +1,27 @@
+﻿生成启动时间为 2017/3/2 14:30:11。
+     1>项目“G:\ProjectFiles\Camera(Zigbee)\Camera(Zigbee)\Camera(Zigbee).vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\ProgrammeFiles\VS2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\projectfiles\camera(zigbee)\camera(zigbee)\pcamera.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\OpenCv3.0.0\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\OpenCv3.0.0\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\OpenCv3.0.0\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\ProGrammeFiles\FlyCapture2.9\include\FlyCapture2.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\programmefiles\flycapture2.9\include\Error.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\programmefiles\flycapture2.9\include\CameraBase.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\programmefiles\flycapture2.9\include\GigECamera.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\programmefiles\flycapture2.9\include\Image.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\programmefiles\flycapture2.9\include\Utilities.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\ProgrammeFiles\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ProjectFiles\Camera(Zigbee)\x64\Release\Camera(Zigbee).exe" /INCREMENTAL:NO /NOLOGO opencv_ts300.lib opencv_world300.lib FlyCapture2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\ProjectFiles\Camera(Zigbee)\x64\Release\Camera(Zigbee).pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ProjectFiles\Camera(Zigbee)\x64\Release\Camera(Zigbee).lib" /MACHINE:X64 x64\Release\Com.obj
+         x64\Release\main.obj
+         x64\Release\pcamera.obj
+         正在生成代码
+         已完成代码的生成
+         Camera(Zigbee).vcxproj -> G:\ProjectFiles\Camera(Zigbee)\x64\Release\Camera(Zigbee).exe
+     1>已完成生成项目“G:\ProjectFiles\Camera(Zigbee)\Camera(Zigbee)\Camera(Zigbee).vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.94
